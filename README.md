@@ -1,3 +1,3 @@
 # First-Repo
 This is my first Repository
-Author - Krishna
+Author - Krishna (Jadhav)
